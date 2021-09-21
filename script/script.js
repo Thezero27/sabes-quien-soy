@@ -17,7 +17,7 @@ const getValueInput = () => {
         //var aviso = document.getElementById("error-login")
         document.getElementById("error-login1").innerHTML = "Login correcto";
         20200
-        open("/HACKER/Hack/ANONYMOUS/Thezero/test/index2.html")
+        open("/index2.html")
     }
     if (usuario != usrot) {
         //var aviso = document.getElementById("error-login")
@@ -86,6 +86,8 @@ const getInput = () => {
     if (entrada === Cod27) {
         alert("Lo lograste, eres todo un desarrollador")
         alert("El codigo secreto es --> " + entrada)
+        alert("Mi nombre es Thezero... Si estas leyendo esto escribeme al whatsapp y te dire mi nombre.")
+        
     } else {
         alert("Te equivocaste este no es el codigo!")
     }
